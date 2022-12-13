@@ -14,22 +14,13 @@ For the word_preprocess directory, originally our group decided we needed to con
 For the kaggle_dataset_training_attempts file, it shows our previous attempts at training the crnn model on the kaggle dataset. There we also included some test cases for the dataset class loader and its individual functions. These files are responsible by everyone in our group as we brainstormed and coding different parts of it together by ourselves and over Zoom.
 
 ### Contributions
-Data Collection: All
-
-Pre-Process: All
-
-Model: Yuting, Yifan
-
-Train: All
-
-Validation: Yuting
-
-Test: Yuting
-
-Post-Process: Jeremy, Yuting
-
-Powerpoint: All 
-
-Report: All
-
-Github Repository: All
+- Data Collection: All
+- Pre-Process: All
+- Model: Yuting, Yifan
+- Train: All
+- Validation: Yuting
+- Test: Yuting
+- Post-Process: Jeremy, Yuting
+- Powerpoint: All 
+- Report: All
+- Github Repository: All
