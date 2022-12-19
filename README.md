@@ -1,8 +1,10 @@
 # Lightweight-OCR-from-HandWritten-Images
 By Yuting Ji, Yifan Zhou, and Jeremy Hudson Chan from Boston College 2023 
 
+### How to Run the Program for EMNIST dataset
+Download the "EMNIST_CRNN.ipynb," and upload it to a Colab notebook. In the Colab interface, run all cells at once. Wait for the program to finish, and the output will show at the bottom.
 
-### How to Run Our Project
+### How to Run and see our progress on Kaggle dataset
 Please use either juypter notebook or google colab, and please take a look at the dataset at this link:
 https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset
 
